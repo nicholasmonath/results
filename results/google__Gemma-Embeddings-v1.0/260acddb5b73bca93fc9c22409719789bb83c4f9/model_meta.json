@@ -1,0 +1,25 @@
+{
+  "name": "google/Gemma-Embeddings-v1.0",
+  "revision": "260acddb5b73bca93fc9c22409719789bb83c4f9",
+  "release_date": "2024-12-12",
+  "languages": [
+    "eng-Latn"
+  ],
+  "n_parameters": 9242164736,
+  "memory_usage": null,
+  "max_tokens": 8192,
+  "embed_dim": 3584,
+  "license": "gemma",
+  "open_weights": false,
+  "public_training_data": true,
+  "public_training_code": false,
+  "framework": [
+    "API"
+  ],
+  "reference": "https://huggingface.co/google/Gemma-Embeddings-v1.0",
+  "similarity_fn_name": "cosine",
+  "use_instructions": true,
+  "adapted_from": "google/gemma-2-9b",
+  "superseded_by": null,
+  "loader": null
+}
